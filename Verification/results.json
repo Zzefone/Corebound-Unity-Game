@@ -1,0 +1,146 @@
+{
+    "unityVersion": "6000.0.23f1",
+    "passed": true,
+    "checks": [
+        {
+            "name": "Menu is initial scene",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Menu start button exists",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Start button transitions to Game",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Eight cores instantiated at runtime",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Sphere rests on physical deck",
+            "passed": true,
+            "detail": "(0.00, 0.55, 0.00)"
+        },
+        {
+            "name": "Audio clips are assigned",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Exit is locked before collecting",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Grounded boost applies",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Boost cannot be repeated during cooldown",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Impulse traverses first gap",
+            "passed": true,
+            "detail": "(0.00, 0.95, 24.06)"
+        },
+        {
+            "name": "Checkpoint activates through trigger",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Boost recharges",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Second gap boost applies",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Impulse traverses second gap",
+            "passed": true,
+            "detail": "(0.00, 0.54, 47.31)"
+        },
+        {
+            "name": "Second checkpoint activates",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Falling respawns once",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Scanner physically moves",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Scanner collision triggers respawn",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Trigger collection recovers all eight cores",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "HUD updates collection count",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Respawning retains collected cores",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Pause freezes timer and reveals panel",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Resume restores time",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Exit trigger wins after collection",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Victory stops player",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Quit button is accessible over victory",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Restart resets game state",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "Return to menu restores initial scene",
+            "passed": true,
+            "detail": ""
+        }
+    ]
+}
